@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estou%20começando%20na%20programação,;E%20muito%20feliz%20em...;Poder%20aprender%20sempre%20mais.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estou%20começando%20na%20programação,;E%20muito%20feliz%20em...;Poder%20aprender%20sempre%20mais.&font=Fira%20Code&center=true&width=440&height=45&color=FC6F1C&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ![capagithubpc](https://user-images.githubusercontent.com/71991444/211434235-bcf4257e-6a05-40bb-99c1-7da0a3d50efe.png)
@@ -14,7 +14,7 @@
 
 <p align="center">
 Oi! Tudo bom com você? Comigo está tudo tranquilo!
-<br>Achei bacana você dar uma passadinha aqui pra olhar meu GitHub :)  
+<br>✨Achei bacana você dar uma passadinha "aqui" pra olhar meu GitHub :)✨  
 </p>
 
 
@@ -48,19 +48,16 @@ Oi! Tudo bom com você? Comigo está tudo tranquilo!
 </p>
 
 
+<p align="center">
+  📫
+  <br>Se quiser entrar em contato, você pode mandar um e-mail para:
+  <br>deiseflavianaandradedossantos@gmail.com
+  <br>ou enviar uma mensagem através do:<br>
+  <a href="https://www.linkedin.com/in/deise-flaviana-andrade-dos-santos-8405771b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
 
-<!--
-**DeiseFAS/DeiseFAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
