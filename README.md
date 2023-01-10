@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Olá! Meu nome é Deise F. A. S.</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estou%20começando%20na%20programação,;E%20muito%20feliz%20em...;Poder%20aprender%20sempre%20mais.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!--
 **DeiseFAS/DeiseFAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
