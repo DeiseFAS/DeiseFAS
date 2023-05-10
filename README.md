@@ -36,8 +36,8 @@ Oi! Tudo bom com você? Comigo está tudo tranquilo!
 <p align="center">
   🎓
   <br>Estou terminando o curso de Análises e Desenvolvimento de Sistemas - UNIVALI.
-  <br>Através do Projeto Floripa Mais Tec, fui contemplada com o curso DEVstart (que estou cursando)
-  <br>e também com o curso DEV FullStack (começa em breve).
+  <br>Através do Projeto Floripa Mais Tec, fui contemplada com o curso DEVstart 
+  <br>e também com o curso DEV FullStack.
 </p>
 
 
